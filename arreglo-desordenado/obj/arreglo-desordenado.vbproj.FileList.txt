@@ -1,0 +1,9 @@
+bin\Debug\arreglo-desordenado.exe
+bin\Debug\arreglo-desordenado.pdb
+bin\Debug\arreglo-desordenado.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\arreglo_desordenado.Resources.resources
+obj\Debug\arreglo-desordenado.vbproj.GenerateResource.Cache
+obj\Debug\arreglo-desordenado.exe
+obj\Debug\arreglo-desordenado.xml
+obj\Debug\arreglo-desordenado.pdb
